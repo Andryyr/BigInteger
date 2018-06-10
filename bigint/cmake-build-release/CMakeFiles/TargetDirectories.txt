@@ -1,0 +1,3 @@
+/home/andyyi/Документы/Cpp/cpp-homework/bigint/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/andyyi/Документы/Cpp/cpp-homework/bigint/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/andyyi/Документы/Cpp/cpp-homework/bigint/cmake-build-release/CMakeFiles/big_integer_testing.dir
