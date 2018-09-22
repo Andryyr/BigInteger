@@ -3,11 +3,13 @@
 
 #include <string>
 #include <vector>
+#include "bastard.h"
 using std::vector;
 
 class big_integer {
 public:
-    vector<uint32_t > value;
+    //vector<uint32_t > value;
+    bastard value;
     bool sign;
 
     void clear_pref();
