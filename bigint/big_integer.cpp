@@ -237,7 +237,7 @@ bool big_integer::prefix_compare(big_integer const &v, big_integer const &check,
 {
     int len = int(v.length() - pref_len);
     uint32_t digit;
-    for (int i = int(v.length() - 1); i >= len; i--)
+    for (int i = int(v.length()) - 1; i >= len; i--)
     {
         digit = (i - len < (check.length()) ? check.value[i - len] : 0);
         if (v.value[i] > digit)
